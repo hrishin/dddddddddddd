@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>io.openshift</groupId>
-    <artifactId>dddddddddddddddddddddddddddddddddddddddddddddddd </artifactId>
+    <artifactId>dddddddddddddddddddddddddddddddddddddddddddddddd</artifactId>
     <version>22</version>
   </parent>
   <groupId>io.openshift.booster</groupId>
